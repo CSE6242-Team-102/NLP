@@ -3,11 +3,11 @@ CSE6242- Team 102 (Spring 2023)
 
 # Data sourcing
 https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset <br>
-Only download US and CA csv and json files and save under folder 'youtube-trending-video-dataset'
+Only download US and CA and GB csv and json files and save under folder 'youtube-trending-video-dataset'
 
 # Installation Instructions
-1. Create virtual environment of your choice. Select Python version XXX for your kernel.
-2. Install the following libraries in your environment. Refer to Requirements.txt
+1. Create virtual environment of your choice. Select Python version 3.7 for your kernel.
+2. Install the following libraries in your environment. Refer to Requirements.txt file.
 3. If running model for the first time:
 
 **Main Python Script:** youtube-title-suggestion-model-Copy1.ipynb <br>
